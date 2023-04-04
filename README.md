@@ -15,9 +15,16 @@
 
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Both_Style_and_Fog_Matter_Cumulative_Domain_Adaptation_for_Semantic_CVPR_2022_paper.pdf)] Both Style and Fog Matter: Cumulative Domain Adaptation for Semantic Foggy Scene Understanding
 
-[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf)] SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection (SIGMA)
+[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf)] SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection
+
+[[ACMMM](https://arxiv.org/pdf/2204.14195v3.pdf)] Improving Transferability for Domain Adaptive Detection Transformers 
+
+[[TMM](https://arxiv.org/pdf/2201.01929.pdf)] Decompose to Adapt: Cross-domain Object
+Detection via Feature Disentanglement
 
 # 2021
+
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf)] Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection
 
 [[IJCV](https://link.springer.com/article/10.1007/s11263-021-01447-x)] Scale-Aware Domain Adaptive Faster R-CNN (SADA)
 
