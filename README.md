@@ -17,14 +17,13 @@
 
 [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf)] SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection
 
-[[ACMMM](https://arxiv.org/pdf/2204.14195v3.pdf)] Improving Transferability for Domain Adaptive Detection Transformers 
+[[ACMMM](https://arxiv.org/pdf/2204.14195v3.pdf)] Improving Transferability for Domain Adaptive Detection Transformers (O2Net)
 
-[[TMM](https://arxiv.org/pdf/2201.01929.pdf)] Decompose to Adapt: Cross-domain Object
-Detection via Feature Disentanglement
+[[TMM](https://arxiv.org/pdf/2201.01929.pdf)] Decompose to Adapt: Cross-domain Object Detection via Feature Disentanglement (DDF)
 
 # 2021
 
-[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf)] Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection
+[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Rezaeianaran_Seeking_Similarities_Over_Differences_Similarity-Based_Domain_Alignment_for_Adaptive_Object_ICCV_2021_paper.pdf)] Seeking Similarities over Differences: Similarity-based Domain Alignment for Adaptive Object Detection (ViSGA)
 
 [[IJCV](https://link.springer.com/article/10.1007/s11263-021-01447-x)] Scale-Aware Domain Adaptive Faster R-CNN (SADA)
 
@@ -40,7 +39,7 @@ Detection via Feature Disentanglement
 
 [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)] Exploring Object Relation in Mean Teacher for Cross-Domain Detection (MTOR)
 
-[[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)] Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)] Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection (DDMRL)
 
 # 2018
 
