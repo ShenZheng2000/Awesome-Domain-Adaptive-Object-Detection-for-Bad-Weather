@@ -40,6 +40,8 @@ Detection via Feature Disentanglement
 
 [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cai_Exploring_Object_Relation_in_Mean_Teacher_for_Cross-Domain_Detection_CVPR_2019_paper.pdf)] Exploring Object Relation in Mean Teacher for Cross-Domain Detection (MTOR)
 
+[[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Diversify_and_Match_A_Domain_Adaptive_Representation_Learning_Paradigm_for_CVPR_2019_paper.pdf)] Diversify and Match: A Domain Adaptive Representation Learning Paradigm for Object Detection
+
 # 2018
 
 [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)] Domain Adaptive Faster R-CNN for Object Detection in the Wild (DA-Faster)
